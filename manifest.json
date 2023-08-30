@@ -1,0 +1,11 @@
+{
+    "name": "CricIt Chrome extension",
+    "version": "1.0.0",
+    "description": "Gives you regular update of live cricket score!",
+    "manifest_version": 3,
+    "author": "Rajwardhan Patil",
+    "action": {
+        "default_popup":"index.html",
+        "default_title":"CricIt Chrome extension"
+    }
+}
